@@ -1,0 +1,7 @@
+## GenericWebApplicationContext类解析
+
+#### GenericWebApplicationContext介绍
+
+GenericWebApplicationContext继承于GenericApplicationContext，并且实现ConfigurableWebApplicationContext, ThemeSource着两个接口。
+
+我们都知道GenericApplicationContext是一个通用应用程序上下文实现，该实现内部有一个 DefaultListableBeanFactory 实例。
