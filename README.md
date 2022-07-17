@@ -34,7 +34,7 @@
   - [ListableBeanFactory解读](https://github.com/WenyaoL/source-blog/blob/main/Spring/BeanFactory/ListableBeanFactory解读.md)
   - [HierarchicalBeanFactory接口解读](https://github.com/WenyaoL/source-blog/blob/main/Spring/BeanFactory/HierarchicalBeanFactory接口解读.md)
   - [ConfigurableBeanFactory解读](https://github.com/WenyaoL/source-blog/blob/main/Spring/BeanFactory/ConfigurableBeanFactory解读.md)
-  - [DefaultListableBeanFactory解读](https://github.com/WenyaoL/source-blog/blob/main/Spring/BeanFactory/DefaultListableBeanFactory 解读.md)
+  - [DefaultListableBeanFactory解读](https://github.com/WenyaoL/source-blog/blob/main/Spring/BeanFactory/DefaultListableBeanFactory%20%E8%A7%A3%E8%AF%BB.md)
   - [XmlBeanFactory类解读](https://github.com/WenyaoL/source-blog/blob/main/Spring/BeanFactory/XmlBeanFactory类解读.md)
 - **ApplicationContext模块**
   - [ApplicationContext接口解读](https://github.com/WenyaoL/source-blog/blob/main/Spring/ApplicationContext/ApplicationContext接口解读.md)
